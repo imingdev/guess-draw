@@ -18,7 +18,7 @@ npm run server
 ### Compiles and minifies for production
 ```
 // 绘图页
-http://localhost:8080/#/teach
+http://localhost:8080/#/draw
 // 观看页
 http://localhost:8080/#/watch
 ```
